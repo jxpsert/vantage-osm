@@ -19,7 +19,7 @@ OpenStreetMap & Nominatim integration for Vantage WordPress theme (https://nl.wo
 		- Find: require_once (dirname(__FILE__) . '/map-providers/google-maps.php');
 		- On next line, add: require_once (dirname(__FILE__) . '/map-providers/openstreetmap.php');
 	- /wp-content/themes/appthemes-vantage/includes/maps/load.php
-		- Add to $load_files arrray: 'class-openstreetmap.php'
+		- Add to $load_files array: 'class-openstreetmap.php'
 		
 ## Usage:
 	- Open 'Vantage' -> 'Geo Services' in admin panel
