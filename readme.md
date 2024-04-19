@@ -27,3 +27,9 @@ OpenStreetMap & Nominatim integration for Vantage WordPress theme (https://nl.wo
 
 ## Compatibility
 Made and tested on Vantage 4.2.13
+
+## License
+
+This project is licensed under the [MPL-2.0](./LICENSE) license.
+
+It was made during my internship at [Wux](https://wux.nl/) and permission for release has been granted.
