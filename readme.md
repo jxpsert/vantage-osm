@@ -1,6 +1,6 @@
 # vantage-osm
 
-OpenStreetMap & Nominatim integration for Vantage WordPress theme (https://nl.wordpress.org/themes/vantage/)
+OpenStreetMap & Nominatim integration for Vantage WordPress theme (https://www.appthemes.com/themes/vantage/)
 
 | Geocoder | Map    |
 |----------|--------|
